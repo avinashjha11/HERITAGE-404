@@ -1,0 +1,112 @@
+p .unique{
+	font-family: 'Kanit', sans-serif;
+
+}
+
+body{
+	background-color: black;
+}
+
+.veda-img{
+	position: relative;
+}
+
+.veda-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.veda-img .veda a{
+	text-decoration-color: #ffd24d;
+	color: white;
+}
+
+.veda{
+	position: absolute;
+	min-width: 1%;
+	min-height: 1%;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 15%; 
+	margin-left: 5%;
+	/*top: 100px;*/
+	bottom: 2%;
+	right: 2%;
+	background-color: #ffd24d;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.ancient-img{
+	position: relative;
+}
+
+.ancient-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.ancient-img .ancient a{
+	text-decoration-color: #999999;
+	color: white;
+}
+
+.ancient{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 85%; 
+	bottom: 2%;
+	margin-left: 6%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.vikram-img {
+	position: relative;
+}
+
+.vikram-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.vikram-img .vikram a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.vikram{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 18%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}

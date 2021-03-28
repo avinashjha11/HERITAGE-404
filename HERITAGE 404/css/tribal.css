@@ -1,0 +1,112 @@
+p .unique{
+	font-family: 'Kanit', sans-serif;
+
+}
+
+body{
+	background-color: #e6e6e6;
+}
+
+.jar-img{
+	position: relative;
+}
+
+.jar-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.jar-img .jara a{
+	text-decoration-color: #ffd24d;
+	color: white;
+}
+
+.jara{
+	position: absolute;
+	min-width: 1%;
+	min-height: 1%;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 5%; 
+	margin-left: 5%;
+	/*top: 100px;*/
+	bottom: 2%;
+	right: 2%;
+	background-color: #ffd24d;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.chenc-img{
+	position: relative;
+}
+
+.chenc-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.chenc-img .chenc a{
+	text-decoration-color: #999999;
+	color: white;
+}
+
+.chenc{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 85%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.khasa-img {
+	position: relative;
+}
+
+.khasa-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.khasa-img .khasa a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.khasa{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 15%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}

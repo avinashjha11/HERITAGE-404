@@ -1,0 +1,119 @@
+p .unique{
+	font-family: 'Kanit', sans-serif;
+
+}
+
+body{
+	background-color: black;
+}
+
+.rail-image{
+	position: relative;
+}
+
+.rail-image img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.rail-image .shed a{
+	text-decoration-color: #ffd24d;
+	color: white;
+}
+
+.shed{
+	position: absolute;
+	min-width: 1%;
+	min-height: 1%;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 5%; 
+	margin-left: 5%;
+	/*top: 100px;*/
+	bottom: 2%;
+	right: 2%;
+	background-color: #ffd24d;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.rail-cross{
+	position: relative;
+}
+
+.rail-cross img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.rail-cross .cross a{
+	text-decoration-color: #999999;
+	color: white;
+}
+
+.cross{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 95%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.vana {
+	position: relative;
+}
+
+.vana img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.vana .gujrat a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.gujrat{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 15%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,149 @@
+p .unique{
+	font-family: 'Kanit', sans-serif;
+
+}
+
+body{
+	background-color: #e6e6e6;
+}
+
+.mal-img{
+	position: relative;
+}
+
+.mal-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.mal-img .temp a{
+	text-decoration-color: #ffd24d;
+	color: white;
+}
+
+.temp{
+	position: absolute;
+	min-width: 1%;
+	min-height: 1%;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 5%; 
+	margin-left: 5%;
+	/*top: 100px;*/
+	bottom: 2%;
+	right: 2%;
+	background-color: #ffd24d;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.tug-img{
+	position: relative;
+}
+
+.tug-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.tug-img .tugh a{
+	text-decoration-color: #999999;
+	color: white;
+}
+
+.tugh{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-left: 5%;
+	margin-bottom: 168%; 
+	bottom: 2%;
+	right: 2%;
+	background-color: #999999;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+
+
+.patta {
+	position: relative;
+}
+
+.patta img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.patta .pata a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.pata{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 95%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}
+
+.kanch-img {
+	position: relative;
+}
+
+.kanch-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.kanch-img .kanch a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.kanch{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 15%; 
+	bottom: 2%;
+	margin-left: 5%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}

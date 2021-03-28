@@ -1,0 +1,151 @@
+p .unique{
+	font-family: 'Kanit', sans-serif;
+
+}
+
+body{
+	background-color: #e6e6e6;
+}
+
+.una-img{
+	position: relative;
+}
+
+.una-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.una-img .temp a{
+	text-decoration-color: #ffd24d;
+	color: white;
+}
+
+.temp{
+	position: absolute;
+	min-width: 1%;
+	min-height: 1%;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 5%; 
+	margin-left: 5%;
+	/*top: 100px;*/
+	bottom: 2%;
+	right: 2%;
+	background-color: #ffd24d;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+.pat-img{
+	position: relative;
+}
+
+.pat-img img{
+	height: 80%;
+	width: 95%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+.pat-img .patt a{
+	text-decoration-color: #999999;
+	color: white;
+}
+
+.patt{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-left: 9%;
+	margin-bottom: 163%; 
+	bottom: 2%;
+	right: 1%;
+	
+	background-color: #999999;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+
+
+.mit-img {
+	position: relative;
+}
+
+.mit-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.mit-img .mith a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.mith{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 85%; 
+	bottom: 2%;
+	margin-left: 6%;
+	right: 2%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}
+
+.dhok-img {
+	position: relative;
+}
+
+.dhok-img img{
+	height: 80%;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+
+
+.dhok-img .dhokh a{
+	text-decoration-color: #b38600;
+	color: white;
+}
+
+.dhokh{
+	position: absolute;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 18%; 
+	bottom: 2%;
+	margin-left: 5%;
+	
+	right: 1%;
+	background-color: #b38600;
+	color:white;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+
+}
